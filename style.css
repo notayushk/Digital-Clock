@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+body{
+    background: url(https://www.dropbox.com/s/rpie6rzjj4vso0c/096323d6fba01d28141927cf92478d8f.jpg?raw=1)no-repeat center center fixed; 
+    background-size: cover;
+    font-family:'Great Vibes';
+    width:100%;
+    height:100vh;
+}
+#box{
+    height: 80vh;
+    width:90%;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+.card{
+    height: 400px;
+    width: 320px;
+    color:white;
+    text-align:center;
+    font-family:'Handlee';
+    background-color: rgba(255, 255, 255, 0.06);
+    -webkit-backdrop-filter: blur(5px);
+            backdrop-filter: blur(5px);
+    position: absolute;
+    border-radius: 8px;
+    -webkit-box-shadow: 20px 20px 22px rgba(0,0,0,0.2);
+            box-shadow: 20px 20px 22px rgba(0,0,0,0.2);
+    
+}
+#clock{
+    text-align:center;
+    font-size:72px;
+    margin-top:40%;
+    color:white;
+    font-family:'Great Vibes';
+    
+}
+#clock2{
+    color:white;
+    font-family:'Great Vibes';
+    font-size:28px;
+}
+  
